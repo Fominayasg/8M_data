@@ -6,7 +6,7 @@ Este repositorio contiene el material utilizado en la charla análisis de datos 
 
 ## Objetivo
 
-Hacer una sencilla introducción a la limpieza, análisis y visualización de datos, para que los participantes puedan entender el por qué de los datos y cómo se pueden utilizar para obtener nuestras propias conclusiones.
+Hacer una sencilla introducción a la limpieza, análisis y visualización de datos, para que las participantes puedan entender el por qué de los datos y cómo se pueden utilizar para obtener nuestras propias conclusiones.
 
 
 ## Datos
